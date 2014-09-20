@@ -4,3 +4,6 @@
 [submodule "matlab_tools"]
 	path = matlab_tools
 	url = git://github.com/jgrizou/matlab_tools.git
+[submodule "experiments_thesis"]
+	path = experiments_thesis
+	url = git://github.com/jgrizou/experiments_thesis.git
