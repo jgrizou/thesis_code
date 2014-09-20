@@ -7,3 +7,6 @@
 [submodule "experiments_thesis"]
 	path = experiments_thesis
 	url = git://github.com/jgrizou/experiments_thesis.git
+[submodule "matlab_datasets"]
+	path = matlab_datasets
+	url = git://github.com/jgrizou/matlab_datasets.git
