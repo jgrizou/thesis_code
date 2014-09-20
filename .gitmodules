@@ -1,0 +1,3 @@
+[submodule "lfui"]
+	path = lfui
+	url = git://github.com/jgrizou/lfui.git
