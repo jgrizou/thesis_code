@@ -1,3 +1,6 @@
 [submodule "lfui"]
 	path = lfui
 	url = git://github.com/jgrizou/lfui.git
+[submodule "matlab_tools"]
+	path = matlab_tools
+	url = git://github.com/jgrizou/matlab_tools.git
