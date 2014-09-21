@@ -10,3 +10,6 @@
 [submodule "matlab_datasets"]
 	path = matlab_datasets
 	url = git://github.com/jgrizou/matlab_datasets.git
+[submodule "bci_thesis"]
+	path = bci_thesis
+	url = git://github.com/jgrizou/bci_thesis.git
